@@ -1,5 +1,5 @@
 # coroutine_scope_exception
 Coroutine Scope Exception
 這是一個Coroutine Scope Exception的用法
-如果有什麼問題，可以發Email給我
-f40706@
+其他文章可以參考以下網站
+https://wordpress.com/home/codeilin.com
