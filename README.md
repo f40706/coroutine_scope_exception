@@ -1,7 +1,7 @@
 # coroutine_scope_exception
-Coroutine Scope Exception處理
+Coroutine Scope Exception
 
-這是一個Coroutine Scope Exception的用法
+這是一個Coroutine Scope Exception的處理
 
 範例程式碼，參考文章為以下網址
 
